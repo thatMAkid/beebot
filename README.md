@@ -1,0 +1,1 @@
+BeeBot is a SlackBot developed for use on the Beezwax Workspace. More information to be added at a later date!
