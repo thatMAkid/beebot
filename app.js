@@ -60,9 +60,9 @@ const app = new App({
     }
   });
 
-app.message("hey", async ({ command, say }) => {
+app.message("hey b", async ({ command, say }) => {
     try {
-      say("Yaaay! that command works!");
+      say("Hey back!!");
     } catch (error) {
         console.log("err")
       console.error(error);
