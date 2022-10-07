@@ -1,0 +1,17 @@
+{
+  "name": "beebot",
+  "version": "1.0.0",
+  "description": "Multifunctional Slackbot for Beezwax",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node index.js"
+  },
+  "author": "Morgan Anders",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
